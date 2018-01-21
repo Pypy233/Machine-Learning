@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41766cff-939f-4f88-942a-8d8230d2bc64" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Machine-Learning.iml" afterPath="$PROJECT_DIR$/.idea/Machine-Learning.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="numpy_demo.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="numpy_demo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Base/numpy/numpy_demo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -39,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kNN.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kNN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Base/kNN/kNN.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -352,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516521134921</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="algorithm">
+      <created>1516540668407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516540668407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -390,7 +396,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -461,14 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Base/numpy/numpy_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Base/kNN/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -476,6 +475,14 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/numpy/numpy_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
