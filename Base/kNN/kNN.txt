@@ -1,0 +1,6 @@
+Use kNN to classify different groups of data:
+(1)Calculate the distance between every two points.
+(2)Then sort the distance by ascending order.
+(3)Choose the shortest k points.
+(4)Ensure the frequency of the k points.
+(5)Return the most frequent class as the expected class. 
