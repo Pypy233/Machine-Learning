@@ -3,4 +3,7 @@ Use kNN to classify different groups of data:
 (2)Then sort the distance by ascending order.
 (3)Choose the shortest k points.
 (4)Ensure the frequency of the k points.
-(5)Return the most frequent class as the expected class. 
+(5)Return the most frequent class as the expected class.
+
+Euclid distance:
+d = sqrt((xA0 − xB0) ** 2 + (xA1 − xB1) ** 2)
